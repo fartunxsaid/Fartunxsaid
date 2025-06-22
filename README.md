@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Fartun Said</h1>
-<h3 align="center">A passionate IT Student from Norway</h3>
+<h3 align="center">A passionate IT graduate </h3>
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/5AyrPKCGSgv2RsXnse/giphy.gif?cid=ecf05e47y6a51f76l79cwdv2juvxw76q8riojncc56nrtitb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Network security, Python, User experience fundamentals and Rapid web development** as exchange student at QUT in Australia, Brisbane
+- 🎓 I recently completed my Bachelor's degree in **Information Technology** at Oslo metropolitan university
 <h4>SCHOOL 📚:</h4>
-Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures,Networking and cloud computing, Operating Systems, Software Testing
+Eisualization, Network security, Python, User experience fundamentals and Rapid web development,Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures,Networking and cloud computing, Operating Systems, Software Testing
 
 
 - 📫 How to reach me **fartu2504@gmail.com**
