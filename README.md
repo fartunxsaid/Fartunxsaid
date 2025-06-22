@@ -6,7 +6,7 @@
 
 - 🎓 I recently completed my Bachelor's degree in **Information Technology** at Oslo metropolitan university
 <h4>SCHOOL 📚:</h4>
-Eisualization, Network security, Python, User experience fundamentals and Rapid web development,Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures,Networking and cloud computing, Operating Systems, Software Testing
+Visualization, Network security, Python, User experience fundamentals and Rapid web development,Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures,Networking and cloud computing, Operating Systems, Software Testing
 
 
 - 📫 How to reach me **fartu2504@gmail.com**
